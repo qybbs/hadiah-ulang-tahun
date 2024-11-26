@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hadiah-ulang-tahun/static/css/main.6fac9258.css",
-    "main.js": "/hadiah-ulang-tahun/static/js/main.cde42f2f.js",
+    "main.js": "/hadiah-ulang-tahun/static/js/main.6efd7f0e.js",
     "static/js/453.42485587.chunk.js": "/hadiah-ulang-tahun/static/js/453.42485587.chunk.js",
     "static/media/4.JPG": "/hadiah-ulang-tahun/static/media/4.d74de96cc0cc28f184c1.JPG",
     "static/media/music.mp3": "/hadiah-ulang-tahun/static/media/music.e544b27ae188d7f9c1f4.mp3",
@@ -53,11 +53,11 @@
     "static/media/26.jpg": "/hadiah-ulang-tahun/static/media/26.9c68416d585be1c315f4.jpg",
     "index.html": "/hadiah-ulang-tahun/index.html",
     "main.6fac9258.css.map": "/hadiah-ulang-tahun/static/css/main.6fac9258.css.map",
-    "main.cde42f2f.js.map": "/hadiah-ulang-tahun/static/js/main.cde42f2f.js.map",
+    "main.6efd7f0e.js.map": "/hadiah-ulang-tahun/static/js/main.6efd7f0e.js.map",
     "453.42485587.chunk.js.map": "/hadiah-ulang-tahun/static/js/453.42485587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fac9258.css",
-    "static/js/main.cde42f2f.js"
+    "static/js/main.6efd7f0e.js"
   ]
 }
