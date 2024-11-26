@@ -13,7 +13,7 @@ const Header = () => {
             </p>
             <div className="mt-4">
                 <button className="bg-white text-pink-500 font-bold py-2 px-4 rounded-full shadow-md hover:bg-pink-500 hover:text-white transition duration-300">
-                    Celebrate Now
+                    Celebrate Now (Pencet Aku!)
                 </button>
             </div>
         </header>

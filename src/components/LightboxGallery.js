@@ -151,7 +151,7 @@ return (
         </div>
         <div className="text-center p-8 bg-white mt-8">
             <p className="text-3xl italic font-semibold text-black">
-                "Semoga kita selalu bahagia dan bersama selamanya ya, sayang! 💖😊"
+                "Jadi ayanggkuu yangg cantik dan lucu terus yaa sayaaanggg! 💖😊"
             </p>
         </div>
         {isOpen && (
